@@ -39,6 +39,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "oval",
+      "id": "93597387-C4BC-45CD-8C59-A26BB2DBB20E"
+    }
   ],
   "name": "Page 1",
   "nameIsFixed": false,
@@ -91,6 +95,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
